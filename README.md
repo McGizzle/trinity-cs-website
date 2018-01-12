@@ -1,6 +1,7 @@
 # Trinity Computer Science Website
 A website to help Computer Science students at Trinity College Dublin study their course material.  It can be found at <a href="https://nating.netsoc.ie">nating.netsoc.ie<a>. 
 
+..
 
 ## Description
 This website has a separate page for each year of study in Computer Science at Trinity College Dublin, as well as a page for studying for the Foundation Scholarships examinations.  
